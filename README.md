@@ -1,4 +1,4 @@
-# Hands on Optimization in Machine Learning | CO@Work 2024
+# Hands on Optimization in Machine Learning - CO@Work 2024
 
 ## Getting Started
 For the easiest and smoothest experience, **use GitHub codespaces** to start a development environment in the cloud. On the main page of the [co-at-work-2024 github repository](https://github.com/b-turan/deeplearning-co-at-work2024):
