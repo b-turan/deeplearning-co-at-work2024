@@ -1,1 +1,1 @@
-# MATH+ Summer School
+# CO@Work - Hands on Optimization in Machine Learning
